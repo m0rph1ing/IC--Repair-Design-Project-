@@ -472,6 +472,7 @@ main{
     max-width: 330px;
 }
 .card-item{
+    position: relative;
     margin-top: 20px;
     margin-left: 51px;
 }
@@ -563,6 +564,7 @@ main{
     max-width: 250px;
 }
 .form-departure__input-text{
+    position: relative;
     margin-right: 50px;
     outline: none;
     border-left: none;
